@@ -1,2 +1,2 @@
-# reg_linear_colesterol
-Calculando regressão para determinar valores faltantes na tabela..
+# Regressão Linear Colesterol
+Realizando regressão linear para recalcular valores faltantes na tabela.
